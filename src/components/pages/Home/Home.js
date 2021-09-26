@@ -448,7 +448,7 @@ function Home()
                                 { vn[ "Adhi Shree" ] ? <Chip size="small" style={ { padding: '10px', fontSize: '17px', background: '#c91f42', color: '#fff' } } label={ "Adhi Shree - " + vn[ "Adhi Shree" ] } /> : <CircularProgress /> }
                             </Grid>
                             <Grid item xs={ 12 } sm={ 6 } md={ 2 }>
-                                { vn[ "Bindhu Priya" ] ? <Chip size="small" style={ { padding: '10px', fontSize: '17px', background: '#c91f42', color: '#fff' } } label={ "Adhi Shree - " + vn[ "Bindhu Priya" ] } /> : <CircularProgress /> }
+                                { vn[ "Bindhu Priya" ] ? <Chip size="small" style={ { padding: '10px', fontSize: '17px', background: '#c91f42', color: '#fff' } } label={ "Bindhu Priya - " + vn[ "Bindhu Priya" ] } /> : <CircularProgress /> }
                             </Grid>
                             <Grid item xs={ 12 } sm={ 6 } md={ 2 }>
                                 { vn[ "Bornita" ] ? <Chip size="small" style={ { padding: '10px', fontSize: '17px', background: '#c91f42', color: '#fff' } } label={ "Bornita - " + vn[ "Bornita" ] } /> : <CircularProgress /> }
