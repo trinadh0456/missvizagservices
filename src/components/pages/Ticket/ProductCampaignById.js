@@ -540,7 +540,7 @@ function ProductCampaign()
                                 <span>Contact</span><br />
                                 <span>Email:info@vizagcelebrities.in</span><br />
                                 <span>Contact: 093466 92915, 09701228909</span><br />
-                                     <span>Address: Chittivalasa Village,Thagarapuvalasa Mandal,Visakhapatnam,Pin 531163</span><br />
+                               <span>Address: Chittivalasa Village,Thagarapuvalasa Mandal,Visakhapatnam,Pin 531163</span><br />
                                 <div className="campFooterSocialLinks">
                                     <a href="https://www.facebook.com/vizagcelebritiesss" target="_blank"><FaFacebookF className="FaFacebookF" /></a>
                                     <a href="https://twitter.com/Vizagcelebritis" target="_blank"><FaTwitter className="FaTwitter" /></a>
